@@ -2,9 +2,9 @@
 [/SIZE][/B][/COLOR][/U]
 %ImageLink%
 [FONT=tahoma][B][SIZE=1]%ImageLinkDesc%
-[/SIZE][/B][/FONT][FONT=open sans hebrew]
+[/SIZE][/B][/FONT][FONT=open sans hebrew][SIZE=3]
 %Content%
-[/FONT]
+[/SIZE][/FONT]
 [COLOR=#333333][FONT=arial][SIZE=1][COLOR=#a9a9a9][B]%RelevantLinkDesc%:
 [/B][/COLOR][/SIZE][/FONT][/COLOR][FONT=arial][SIZE=1][URL="%RelevantLink%"][COLOR=#a9a9a9][B]%RelevantLink%[/B][/COLOR][/URL]
 [COLOR=#a9a9a9][U][B][URL="%Source%"][COLOR=#a9a9a9]
