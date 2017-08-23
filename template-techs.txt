@@ -1,8 +1,8 @@
-﻿[CENTER][U][COLOR=#008b8b][B][SIZE=5][FONT=almoni-dl]%ArticleTitle%[/FONT]
+[CENTER][U][COLOR=#008b8b][B][SIZE=5][FONT=open sans hebrew]%ArticleTitle%[/FONT]
 [/SIZE][/B][/COLOR][/U]
 %ImageLink%
 [FONT=tahoma][B][SIZE=1]%ImageLinkDesc%
-[/SIZE][/B][/FONT][FONT=tahoma]
+[/SIZE][/B][/FONT][FONT=open sans hebrew]
 %Content%
 [/FONT]
 [COLOR=#333333][FONT=arial][SIZE=1][COLOR=#a9a9a9][B]%RelevantLinkDesc%:
@@ -15,7 +15,7 @@
 [/FONT][/RIGHT]
 [COLOR=#333333][FONT=arial]
 [COLOR=#008b8b][FONT=Arial][FONT=tahoma][SIZE=3][FONT=arial][B]אולי יעניין אותך גם:[/B][/FONT][/SIZE][/FONT][/FONT][/COLOR]
-[/FONT][/COLOR][COLOR=#0000cd][FONT=arial][B][URL="%AdditionalLink1%"][COLOR=#0000cd]%AdditionalLink1Desc%[/COLOR][/URL]
+[/FONT][/COLOR][COLOR=#0000cd][FONT=open sans hebrew][B][URL="%AdditionalLink1%"][COLOR=#0000cd]%AdditionalLink1Desc%[/COLOR][/URL]
 [URL="%AdditionalLink2%"][COLOR=#0000cd]%AdditionalLink2Desc%[/COLOR][/URL]
 [URL="%AdditionalLink3%"][COLOR=#0000cd]%AdditionalLink3Desc%[/COLOR][/URL]
 [URL="%AdditionalLink4%"][COLOR=#0000cd]%AdditionalLink4Desc%[/COLOR][/URL]
